@@ -26,4 +26,4 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 ![Alt text](./src/assets/Screenshot_4.jpg)
 
-Developed By [Anu Gupta](https://github.com/anugupta01)
+Developed By [Anu Gupta](https://github.com/anugupta01/spacex)
